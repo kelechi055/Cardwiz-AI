@@ -6,7 +6,7 @@ CardWiz is an AI-powered flashcard app designed to make learning and memorizatio
 
 ## Features 🤩
 
-- 📝**AI-Powered Flashcards:** Automatically generate flashcards from any content.
+- 📝**AI-Powered Flashcards:** Automatically generate flashcards from any text.
 - 🐦‍🔥**Custom Sets:** Create and manage personalized flashcard sets with ease.
 - 🔄**Spaced Repetition:** Save and access flashcard sets, anytime, anywhere. 
 - 📱**Responsive Design:** Study on the go with a design that looks great on all devices.
