@@ -58,14 +58,14 @@ export default function TrustedBy() {
           onMouseLeave={handleMouseLeave}
         />
         <img
-          src="https://media.licdn.com/dms/image/v2/D4E03AQHmPO8V6R8DPQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1712209528733?e=1729728000&v=beta&t=sLo_J2uBMWgVMlxJHUUycu5TiIA6TYxX9x09OIVzR0s"
+          src="user1.jpg"
           alt="Avatar 2"
           style={{ ...avatarStyle, marginRight: '-14px', zIndex: 2 }}  
           onMouseEnter={handleMouseEnter}
           onMouseLeave={handleMouseLeave}
         />
         <img
-          src="https://media.licdn.com/dms/image/v2/D4E03AQFErTyrmTumKg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1709171673701?e=1729728000&v=beta&t=5G1MRPgkZVIf8c1_Z1CwzWU1IHdiQ7RUBVI6r5Q3LR8"
+          src="/user2.jpg"
           alt="Avatar 3"
           style={{ ...avatarStyle, marginRight: '-13px', zIndex: 3 }}  
           onMouseEnter={handleMouseEnter}
