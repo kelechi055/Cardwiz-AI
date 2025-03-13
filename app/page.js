@@ -785,7 +785,7 @@ export default function Home() {
             fontSize: { xs: '0.75rem', sm: '0.875rem', md: '1rem' }
           }}
         >
-          © 2024 CardWiz. Built by{' '}
+          © {new Date().getFullYear()} CardWiz. Built by{' '}
           <Link 
             href="https://linkedin.com/in/kelechi-opurum" 
             color="inherit" 
