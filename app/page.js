@@ -22,7 +22,7 @@ export default function Home() {
   };
 
   const handleSubmit = async () => {
-    const checkoutSession = await fetch('/api/checkout_session', {
+    const checkoutSession = await fetch('/api/checkout_sessions', {
       method: 'POST',
       headers: { origin: 'http://localhost:3000' },
     });
@@ -648,7 +648,7 @@ export default function Home() {
                   fontSize: { xs: '1.5rem', sm: '1.75rem', md: '2rem' }
                 }}
               >
-                One time payment
+                Monthly payment
               </Typography>
               <br></br>
               <br></br>
