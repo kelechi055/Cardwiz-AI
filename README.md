@@ -1,5 +1,5 @@
-> [!CAUTION]
-> Flashcard generation isn’t working at the moment. Fixing it up soon.
+> [!WARNING]
+> The chat feature is disabled due to API quota limits.
 
 # CardWiz 🧙‍♂️
 
