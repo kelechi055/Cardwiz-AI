@@ -1,5 +1,5 @@
-> [!WARNING]
-> The chat feature is disabled due to API quota limits.
+> [!CAUTION]
+> Flashcard generation isn’t working due to API quota.
 
 # CardWiz 🧙‍♂️
 
